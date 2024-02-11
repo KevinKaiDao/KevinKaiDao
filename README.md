@@ -17,9 +17,9 @@
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
 - :school: I am a `2nd Year` at [Toronto Metropolitan University](https://www.torontomu.ca/) studying [Software Engineering](https://www.torontomu.ca/programs/undergraduate/computer-engineering/)
-- :technologist: **Currently working on** `Web Development` **&** `Backend`
-- :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=KevinKaiDao&amp;color=EA4335&amp;style=flat-square)](mailto:kevinkaidao@gmail.com)
-
+- :technologist: **Currently working on** `Web Development` **&** `Backend Development`
+- :email: Feel free to **reach me at** `kevinkaidao@gmail.com`
+- 🗣️ Visit my [linkeden](https://www.linkedin.com/in/kevinkaidao/)
 <br>
 
 ## 🛠️ My Skills
