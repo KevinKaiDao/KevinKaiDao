@@ -19,7 +19,7 @@
 - :school: I am a `2nd Year` at [Toronto Metropolitan University](https://www.torontomu.ca/) studying [Software Engineering](https://www.torontomu.ca/programs/undergraduate/computer-engineering/)
 - :technologist: **Currently working on** `Web Development` **&** `Backend Development`
 - :email: Feel free to **reach me at** `kevinkaidao@gmail.com`
-- 🗣️ Visit my [linkeden](https://www.linkedin.com/in/kevinkaidao/)
+- 🗣️ Visit my [linkedin](https://www.linkedin.com/in/kevinkaidao/)
 <br>
 
 ## 🛠️ My Skills
